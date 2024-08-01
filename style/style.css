@@ -1,0 +1,24 @@
+.stopwatch{
+    max-width: 300px;
+    margin: 200px auto;
+    background-color: skyblue;
+    padding: 80px 100px 50px 100px;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+button{
+    padding: 10px 20px;
+    background-color: #03346E;
+    color: white;
+    font-size: large;
+}
+.times{
+    font-size: large;
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+}
+body{
+    background-color: #03346E;
+}
